@@ -303,6 +303,14 @@ footer .credit {
   .navbar .navbar-nav a:hover::after {
     transform: scaleX(0.2);
   }
+
+  .options {
+    gap: 30px;
+  }
+
+  .option {
+    padding: 10px 30px;
+  }
 }
 /* Handphone */
 @media (max-width: 450px) {
